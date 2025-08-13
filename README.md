@@ -1,7 +1,7 @@
-[![MasterHead](https://tse3.mm.bing.net/th/id/OIP.iT6-4WTMfdYrwc0OhbfH0wHaEO?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)](https://simran18074.io)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5NnBmNDN4aXIyNDJhZXlsZWN6eG8wMXVqeGZvenNwaXB3Y25hcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif)](https://simran18074.io)
 <h1 align="center">Hi 👋, I'm Simran</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo5NnBmNDN4aXIyNDJhZXlsZWN6eG8wMXVqeGZvenNwaXB3Y25hcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gU25raLP4pUu4/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.ohK4FzdHd7H5Em8W0ve-GQHaE7?w=246&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran18074&label=Profile%20views&color=0e75b6&style=flat" alt="simran18074" /> </p>
